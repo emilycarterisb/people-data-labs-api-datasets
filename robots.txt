@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://YOUR-DOMAIN.com/people-data-labs-api-datasets/sitemap.xml
+Sitemap: https://people-data-labs-api-datasets.vercel.app/people-data-labs-api-datasets/sitemap.xml
